@@ -1,0 +1,10 @@
+.history
+venv
+.env
+__pycache__
+.vscode
+.DS_Store
+test
+essen
+*.pdf
+output.log
