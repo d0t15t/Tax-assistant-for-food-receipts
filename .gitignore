@@ -1,5 +1,6 @@
 .history
 venv
+venv-bak
 .env
 __pycache__
 .vscode
